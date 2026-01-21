@@ -1,2 +1,2 @@
 Coding using javascript...
-sample files for practicing git
+sample files for practicing git hub
