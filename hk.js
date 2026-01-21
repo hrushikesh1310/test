@@ -1,1 +1,2 @@
-Coding using javascript
+Coding using javascript...
+sample files for practicing git
